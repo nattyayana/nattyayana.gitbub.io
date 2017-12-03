@@ -1,1 +1,1 @@
-# nattyayana.gitbub.io
+# nattyayana.github.io
